@@ -1,0 +1,34 @@
+body {
+    font-family:'Robot', sans-serif;
+    font-weight:300;
+}
+header {
+    padding: 20px 0;
+
+}
+
+header .row,
+footer .row {
+    display: flex;
+    align-items: center;
+}
+header h1 {
+    font-weight: 700;
+    margin:0;
+}
+header nav {
+    display: flex;
+    justify-content: flex-end;
+}
+header p{
+    padding: 0 20px;
+    margin: 0;
+}
+
+.jumotron {
+    display: flex;
+    align-items: center;
+    background-image:
+    url(https://www.google.com/search?biw=1200&bih=1214&tbm=isch&sa=1&ei=8jy_XM3nKInE0PEPpNCdgA0&q=+Fancy+Pens&oq=+Fancy+Pens&gs_l=img.3..0l3j0i7i30l6j0i5i30.1574.4124..4284...0.0..0.56.336.7......0....1..gws-wiz-img.......0i67.XiBDfYYXCU4#imgrc=wP5mUVTfGUPqMM:);
+    
+}
