@@ -15,3 +15,23 @@ h3{
 p{
     text-indent: 10px;
 }
+
+.styled{
+    border: 0;
+    line-height: 2.5;
+    padding: 0 20px;
+    font-size: 1rem;
+    text-align: center;
+    color: aqua;
+    border-radius: 10px;
+    background-color: aqua;
+}
+
+.styled:hover {
+    background-color: aqua;
+}
+
+.styled:active {
+    box-shadow: inset -2px -2px 3px color aquamarine,
+                inset 2px 2px 3px color antiquewhite;
+}
