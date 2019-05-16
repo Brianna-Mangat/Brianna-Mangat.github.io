@@ -36,3 +36,8 @@ p{
     box-shadow: inset -2px -2px 3px color aquamarine,
                 inset 2px 2px 3px color antiquewhite;
 }
+
+.left{
+    float:left;
+    padding: 0 10px 0 0;
+}
