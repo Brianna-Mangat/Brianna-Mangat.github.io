@@ -5,9 +5,13 @@ header{
     text-decoration-style: solid;
     text-decoration-color: aqua;
     font-family: 'Times New Roman', Times, serif;
-    word-spacing: 5px;
+    letter-spacing: 30px;
 }
 
 h3{
     text-align: center;
+}
+
+p{
+    text-indent: 10px;
 }
