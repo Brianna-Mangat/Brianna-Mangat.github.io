@@ -37,6 +37,15 @@ p{
                 inset 2px 2px 3px color antiquewhite;
 }
 
-.button{
-    align-content: center;
+.meow{
+    border: 0;
+    line-height: 2.5;
+    padding: 0 20px;
+    font-size: 1rem;
+    text-align: left;
+    color: white;
+    text-shadow: 1px 1px 1px #000;
+    border-radius: 10px;
+    background-color: aqua;
 }
+
