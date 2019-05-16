@@ -16,7 +16,7 @@ p{
     text-indent: 10px;
 }
 
-.styled{
+.btn-group button {
     border: 0;
     line-height: 2.5;
     padding: 0 20px;
@@ -28,24 +28,11 @@ p{
     background-color: aqua;
 }
 
-.styled:hover {
+.btn-group:hover {
     background-color: aqua;
 }
 
-.styled:active {
+.btn-group:active {
     box-shadow: inset -2px -2px 3px color aquamarine,
                 inset 2px 2px 3px color antiquewhite;
 }
-
-.meow{
-    border: 0;
-    line-height: 2.5;
-    padding: 0 20px;
-    font-size: 1rem;
-    text-align: left;
-    color: white;
-    text-shadow: 1px 1px 1px #000;
-    border-radius: 10px;
-    background-color: aqua;
-}
-
