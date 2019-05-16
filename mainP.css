@@ -16,8 +16,8 @@ p{
     text-indent: 10px;
 }
 
-.btn-group button {
-    border: 0;
+.btn-group-lg .btn, .btn-group-sm .btn{
+    border-radius: 2px;
     line-height: 2.5;
     padding: 0 20px;
     font-size: 1rem;
