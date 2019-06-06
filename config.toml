@@ -2,4 +2,4 @@ baseURL = "http://example.org/"
 languageCode = "en-us"
 title = "Brianna Mangat Portfolio"
 disableKinds = ["RSS", "taxonomy", "taxonomyTerm"]
-publishDir = "../brianna.mangat.github.io"
+publishDir = "../brianna-mangat.github.io"
