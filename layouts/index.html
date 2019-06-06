@@ -14,9 +14,10 @@
     {{/*  dict creates a new dictionary with a set of key-value pairs. 
         As many as you want, but they must be paired "key value key value key value" */}}
 
-    {{ partial "card-layout.html" . }}
+        {{ .Scratch.Set "elements" .Site.Data.project_order.content }}
+        
+        {{/*  If you want to display your site in sections, use the code below  */}}
+        {{ partial "scrolling-layout.html" . }}
 
-
-    {{ partial "scripts.html" }}
 </body>
 </html>
