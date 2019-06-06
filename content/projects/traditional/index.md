@@ -21,5 +21,5 @@
     #Alt text is the text that gets read by screenreaders for accessibility (typically for the visually impaired) 
 +++
 <div class=text-align>
-An animated music video for the song "The Waitress" by Atmosphere, the song touches on broken relationships and how it affects children as their older. I was extremely inspired by the lyrics and immediately saw the entire song in my mind. I animated the video using a mix of techniques such as tweening, traditiona keyframing, and rotoscoping. I designed all the characters as well as the backgrounds. 
+An animated music video for the song "The Waitress" by Atmosphere, the song touches on broken relationships and how it affects children. I was extremely inspired by the lyrics and immediately saw the entire song in my mind. I animated the video using a mix of techniques such as tweening, traditiona keyframing, and rotoscoping. I designed all the characters as well as the backgrounds. 
 </div>

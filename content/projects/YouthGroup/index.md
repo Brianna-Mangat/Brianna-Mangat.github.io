@@ -23,6 +23,6 @@
 
 +++
 <div class=text-align>
-A design I made using Illustrator of Jesus holding a lamb, I used neutral soft color palettes for this worl and was inspired by renaissance art.
+A design I made using Illustrator of Jesus holding a lamb, I used neutral soft color palettes for this work and was inspired by renaissance art.
 
 </div>

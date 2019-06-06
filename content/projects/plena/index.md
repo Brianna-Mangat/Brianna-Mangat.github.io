@@ -23,6 +23,6 @@
 
 +++
 <div class= text-align>
-A talk show I made with my Church where we interview different guests and get a perspective on Catholic college students. We filmed the talk show using three different cameras, the lighting and staging were all designed by me as well as the editing.
+A talk show I made with my Church where we interviewed different guests and got a perspective on Catholic college students. We filmed the talk show using three different cameras, the editing as well as the lighting and staging were all designed by me.
 
 </div>

@@ -23,5 +23,5 @@
 
 +++
 <div class=texts>
-A poster I made for the Daughter's of Carmel Silent Retreat that the sisters put on every year. The image was inspired by Saint Padre Pio and the color schemes were inspired by Indian color schemes.
+A poster I made for the Daughter's of Carmel Silent Retreat that the sisters put on every year. The image was inspired by Saint Padre Pio and the color schemes were inspired by Indian color palletes.
 </div>

@@ -26,7 +26,7 @@
         
 +++
 
-A piece I made using Illustrator for the Art 117 Screen Show, the show was projector based and many of the pieces had to do with the ides of watching something you weren't supposed to be watching or the feeling being watched by surveillance. 
+A piece I made using Illustrator for the Art 117 Screen Show, the show was projector based and many of the pieces had to do with the idea of watching something you weren't supposed to be watching or the feeling of being watched by surveillance. 
 
 </div>
 

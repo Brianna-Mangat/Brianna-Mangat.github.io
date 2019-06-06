@@ -14,4 +14,4 @@
 
 \
 \
-My name is Brianna Mangat I am a cinematogrpher as well as a graphic designer. My work is inspired by my cultural heritage, my mother spent most of her young life in Mexico while my father was a refugee from Punjab, India. I like to incorporate our Aztec folklored with the spice inspired color paletted of Inida. I create art based on my religious background.
+My name is Brianna Mangat I am a cinematographer as well as a graphic designer. My work is inspired by my cultural heritage, my mother spent most of her young life in Mexico while my father was a refugee from Punjab, India. I like to incorporate our Aztec folklore with the spice inspired color palettes of Inida. I create art based on my religious background.
